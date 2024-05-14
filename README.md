@@ -1,6 +1,6 @@
 # cloud_monitoring_app
 
-#Summary
+## Summary
 This cloud monitoring app was built using
 - Python
 - HTML
@@ -9,4 +9,4 @@ This cloud monitoring app was built using
 - Docker
 - Kubernetes
 
-#ScreenShots
+## ScreenShots
