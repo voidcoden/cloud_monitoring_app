@@ -12,3 +12,5 @@ This cloud monitoring app was built using
 - Kubernetes
 
 ## ScreenShots
+
+![image](https://github.com/voidcoden/cloud_monitoring_app/assets/141619028/98572a3c-b6e4-4e2b-ae96-c8eeab17e87a)
